@@ -4,3 +4,4 @@ alx
 xegee joogta
 'almahdiyin'
 saliid
+suugaanta
