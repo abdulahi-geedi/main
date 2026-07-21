@@ -6,4 +6,5 @@ xegee joogta
 saliid
 suugaanta
 
-small steps big progress
+small steps 
+h
