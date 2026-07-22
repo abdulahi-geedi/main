@@ -7,3 +7,5 @@ saliid
 suugaanta
 
 small steps big progress
+
+Write Clean
