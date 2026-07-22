@@ -11,3 +11,5 @@ practice turns into skill
 practice makes you perfect
 jhhj
 kkkk
+
+Learn Python
