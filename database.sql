@@ -11,4 +11,6 @@ practice turns into skill
 practice makes you perfect
 
 
-Believe Always
+Believe 
+
+Be Fearless
