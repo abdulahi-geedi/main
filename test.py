@@ -5,3 +5,5 @@ print:(fname)
 print
 
 Stay Consistent
+
+Stay Motivated
