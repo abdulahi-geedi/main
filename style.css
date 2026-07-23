@@ -2,4 +2,5 @@
     background-color: aqua;
     color: brown;
     padding: auto;
+    white-space: calc();
 }
