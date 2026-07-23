@@ -8,3 +8,4 @@ kalay
 hido raac
 
 practice turns into skill
+practice makes you perfect
