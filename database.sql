@@ -6,3 +6,5 @@ you
 come
 kalay 
 hido raac
+
+practice turns into skill
